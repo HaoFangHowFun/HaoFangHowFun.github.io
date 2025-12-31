@@ -17,7 +17,7 @@ I am currently a robotic engineer at <a href="https://www.mantis-robotics.com/">
 
 # News
 Fellowship Secured! — Dec 31, 2025
-Awarded the Taiwan Ministry of Education (MOE) Fellowship, providing three years of full support (up to USD 90,000 in tuition and a USD 24,000 annual stipend).
+Awarded the Taiwan Ministry of Education (MOE) Fellowship, providing three years of support (up to USD 90,000 in tuition and a USD 24,000 annual stipend).
 
 Paper Accepted! — Sep 21, 2025
 Our work “Autonomous Dental Surgery for Root Canal Treatment” has been accepted for publication in IEEE Transactions on Automation Science and Engineering (T-ASE).
