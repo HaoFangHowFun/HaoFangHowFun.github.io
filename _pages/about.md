@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 <p align = "justify"> 
-Hi! I'm Hao-Fang. I am a prospective PhD student in Robotics with an interest in developing control frameworks for autonomous robots.
+Hi! I'm Hao-Fang. I am an incoming PhD student at UC Berkeley, advised by Prof. Masayoshi Tomizuka, with a research interest in safety-critical robot manipulation.
 <br><br>
-During my master’s studies, I was fortunate to be advised by
-<a href="https://cwchenee.wixsite.com/nasa-ntuee">Prof. Cheng-Wei Chen</a> from the Department of Electrical Engineering at National Taiwan University, working on robot-assisted endodontic treatment. Additionally, I had the opportunity to be mentored by <a href="https://mistlab.ca/">Prof. Giovanni Beltrame</a> from the Department of Computer Science at Polytechnique Montréal during a graduate research exchange, where I worked on multi-robot swarms.
+I am currently a robotics engineer at <a href="https://www.mantis-robotics.com/">Mantis Robotics</a>, where I develop and implement safety-critical control algorithms for fenceless human-robot collaboration.
 <br><br>
-I am currently a robotic engineer at <a href="https://www.mantis-robotics.com/">Mantis Robotics</a>, where I am responsible for enhancing perception for collaborative robots.
+During my Master's studies, I was fortunate to be advised by <a href="https://cwchenee.wixsite.com/nasa-ntuee">Prof. Cheng-Wei Chen</a> in the Department of Electrical Engineering at National Taiwan University, where I worked on robot-assisted endodontic treatment. Additionally, I had the opportunity to be mentored by <a href="https://mistlab.ca/">Prof. Giovanni Beltrame</a> at Polytechnique Montréal during a graduate research exchange, focusing on multi-robot swarm systems.
 </p>
 
 # News
