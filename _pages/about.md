@@ -7,22 +7,16 @@ redirect_from:
   - /about.html
 ---
 <p align = "justify"> 
-Hi! I'm Hao-Fang. I am an incoming PhD student at UC Berkeley, advised by Prof. Masayoshi Tomizuka, with a research interest in safety-critical robot manipulation.
+Hi! I'm Hao-Fang. I am a first-year PhD student at UC Berkeley, advised by Prof. Masayoshi Tomizuka. My research interests focus on the design and control of safety-critical robot manipulation.
 <br><br>
-Before joining MSC, I was a robotics engineer at <a href="https://www.mantis-robotics.com/">Mantis Robotics</a>, where I develop and implement safety-critical control algorithms for fenceless human-robot collaboration.
+Before joining MSC, I was a robotics engineer at Mantis Robotics, where I developed and implemented safety-critical control algorithms for fenceless human-robot collaboration.
 <br><br>
-During my Master's studies, I was fortunate to be advised by <a href="https://cwchenee.wixsite.com/nasa-ntuee">Prof. Cheng-Wei Chen</a> in the Department of Electrical Engineering at National Taiwan University, where I worked on robot-assisted endodontic treatment. Additionally, I had the opportunity to be mentored by <a href="https://mistlab.ca/">Prof. Giovanni Beltrame</a> at Polytechnique Montréal during a graduate research exchange, focusing on multi-robot swarm systems.
+During my Master's studies, I was fortunate to be advised by Prof. Cheng-Wei Chen in the Department of Electrical Engineering at National Taiwan University, where I worked on robot-assisted endodontic treatment. Additionally, I had the opportunity to be mentored by Prof. Giovanni Beltrame at Polytechnique Montréal during a graduate research exchange, focusing on multi-robot swarm systems.
 </p>
 
 # News
 Oral Presentation at ICRA! — June 04, 2026
 Gave a 8-minune talk in ICRA, view the <a href="https://www.youtube.com/watch?v=OJVmng7r_Hs">video</a>.
-
-Fellowship Secured! — March 31, 2026
-Awarded the Taiwan-Berkeley Fellowship
-
-Fellowship Secured! — December 31, 2025
-Honored to receive the Taiwan Ministry of Education (MOE) Fellowship
 
 Paper Accepted! — September 21, 2025
 Our work “Autonomous Dental Surgery for Root Canal Treatment” has been accepted for publication in IEEE Transactions on Automation Science and Engineering (T-ASE). This research explores high-precision automation in constrained surgical environments.
