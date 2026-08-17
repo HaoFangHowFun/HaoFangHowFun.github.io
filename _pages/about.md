@@ -16,9 +16,11 @@ During my Master's studies, I was fortunate to be advised by Prof. Cheng-Wei Che
 
 # News
 Oral Presentation at ICRA! — June 04, 2026
+
 Gave a 8-minune talk in ICRA, view the <a href="https://www.youtube.com/watch?v=OJVmng7r_Hs">video</a>.
 
 Paper Accepted! — September 21, 2025
+
 Our work “Autonomous Dental Surgery for Root Canal Treatment” has been accepted for publication in IEEE Transactions on Automation Science and Engineering (T-ASE). This research explores high-precision automation in constrained surgical environments.
 
 # Selected Research Project
